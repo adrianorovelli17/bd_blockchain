@@ -2,13 +2,10 @@
   "name": "back-end",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/adrianorovelli17/bd_blockchain#readme",
-  "bugs": {
-    "url": "https://github.com/adrianorovelli17/bd_blockchain/issues"
-  },
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adrianorovelli17/bd_blockchain.git"
+    "url": ""
   },
   "license": "ISC",
   "author": "",
