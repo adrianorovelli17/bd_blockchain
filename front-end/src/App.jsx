@@ -7,6 +7,7 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
   {/*Testeando hola*/}
+  {/*Testeando hola como*/}
   return (
     <>
       <section id="center">
